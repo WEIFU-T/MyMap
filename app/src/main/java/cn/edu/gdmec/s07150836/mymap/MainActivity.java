@@ -45,6 +45,7 @@ import com.baidu.mapapi.search.poi.PoiSearch;
 
 public class MainActivity extends AppCompatActivity {
     private MapView mapView;
+
     private BaiduMap baiduMap;
     private Marker markerA;
     private InfoWindow infoWindow;
